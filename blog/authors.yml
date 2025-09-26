@@ -23,3 +23,14 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+yakupdurmus:
+  name: Yakup Durmuş
+  title: React Native Developer
+  url: https://yakupdurmus.com
+  image_url: https://github.com/yakupdurmus.png
+  page: true
+  socials:
+    x: yakup__durmus
+    linkedin: yakup-durmus
+    github: yakupdurmus
