@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Hoş Geldiniz - React Native Blog'una
+title: Hoş Geldiniz
 authors: [yakupdurmus]
 tags: [hoşgeldiniz, react-native, blog, tanıtım]
 ---
